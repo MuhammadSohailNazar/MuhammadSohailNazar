@@ -149,6 +149,7 @@ I lead by writing tests, documenting architecture, mentoring juniors and turning
 
 ### 📫 Get in touch
 
+- 🌐  **Portfolio** — [sohailnazar.com](https://sohailnazar.com)
 - ✉️  **Email** — [sohail.nazar@outlook.com](mailto:sohail.nazar@outlook.com)
 - 📱  **WhatsApp** — [+973 32 057 407](https://wa.me/97332057407)
 - 💼  **LinkedIn** — [/in/fullstackengineersohail](https://www.linkedin.com/in/fullstackengineersohail/)
